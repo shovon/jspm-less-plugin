@@ -2,6 +2,7 @@
   "main": "less",
   "registry": "jspm",
   "dependencies": {
+    "less": "^2.4.0",
     "less.js": "^2.3.1"
   }
 }
